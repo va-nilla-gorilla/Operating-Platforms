@@ -12,9 +12,7 @@
 
 <h3>What did you do particularly well in developing this documentation?</h3>
 
-<h4>Fusce imperdiet augue a arcu lacinia sollicitudin. In hac habitasse platea dictumst. Pellentesque ultricies tincidunt massa, eget sagittis arcu. Cras quam massa, mollis at tellus quis, condimentum tempus eros. Proin vestibulum pharetra justo vitae porttitor. Donec porta libero dignissim ante scelerisque, et pulvinar nunc malesuada. Sed finibus, velit id efficitur pretium, turpis metus viverra ligula, vitae aliquet mauris purus ac sem.
-
-Nullam malesuada blandit ultrices. Nulla diam nisi, porta tincidunt vulputate tincidunt, dapibus eget magna. Sed bibendum, sapien vehicula maximus tincidunt, dolor nisi tristique mauris, vel lacinia nunc velit finibus magna. Aliquam pharetra lectus eget diam feugiat tristique. Morbi consequat.</h4>
+<h4>I felt that I was able to really dive into each OS platform and determine its unique characteristics in accordence with the requirements of the application. </h4>
 
 <h3>What about the process of working through a design document did you find helpful when developing the code?</h3>
 
