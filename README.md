@@ -8,7 +8,7 @@
 
 <h3>Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?</h3>
 
-<h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis congue nisi. Quisque iaculis, dui eu ullamcorper placerat, est urna tempus ipsum, non vulputate nunc dui at urna. Integer rhoncus augue ac lacus scelerisque, vitae elementum leo tincidunt. In eu est ornare, feugiat mi id, aliquam nunc. Suspendisse tempus diam et elit ornare fringilla. Nullam lacinia ante nunc, vitae malesuada est mollis eu. Nam non orci iaculis, ultrices ex at, finibus est. Pellentesque lobortis fringilla congue. Ut viverra finibus mattis. Maecenas vel mauris non enim sagittis vehicula. Nunc nec ullamcorper velit, at dapibus lacus. Sed finibus vulputate scelerisque. Praesent rhoncus malesuada orci a dictum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus non est sed est pretium venenatis sed in urna.</h4>
+<h4>Gaming Company “The Gaming Room” operates an android OS application interface, called “Draw It or Lose It”. In order to effectively target a broader base of users/devices, they have decided to develop a web-based version of the application. </h4>
 
 <h3>What did you do particularly well in developing this documentation?</h3>
 
