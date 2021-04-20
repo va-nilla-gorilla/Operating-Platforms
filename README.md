@@ -16,16 +16,17 @@
 
 <h3>What about the process of working through a design document did you find helpful when developing the code?</h3>
 
-<h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus et magna sed metus scelerisque mollis. Sed feugiat, justo sed posuere fringilla, mi neque finibus odio, a ornare nisl purus id velit. In hac habitasse platea dictumst. In hac habitasse platea dictumst. Nunc in sem pharetra, mollis ex a, sagittis tellus. Etiam facilisis vitae eros nec gravida. Sed sed eros tincidunt, tincidunt ipsum et, sollicitudin sapien. Suspendisse velit magna.</h4>
+<h4>I found every step in constructing a design document very benificial. It allowed for one to really take an indepth look at how and what the code will be interacting with in the system. </h4>
 
 <h3>If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?</h3>
 
-<h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi gravida nisl eget finibus ultricies. Suspendisse potenti. Vivamus eu nulla luctus, venenatis turpis eget, porta leo. Cras malesuada tortor enim, sed suscipit neque fermentum ac. Morbi sed sagittis lorem. Donec sed augue quis neque viverra pretium sit amet sed ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel lorem a enim laoreet tincidunt. Mauris facilisis metus in vehicula laoreet. Integer semper lectus non metus convallis finibus. In sollicitudin ligula id justo bibendum mattis./h4>
+<h4>Personally, I would choose the Domain Model Discription for revision. I would be way more specific and have more detail about the workings of the program in relation to each class./h4>
 
 <h3>How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?</h3>
 
-<h4>Donec nec dolor euismod, congue urna sit amet, dapibus augue. Vivamus tincidunt ex vel leo congue vehicula. Sed mattis ac neque ut dapibus. Maecenas sodales aliquet pretium. Mauris ut felis ullamcorper, bibendum purus sed, pellentesque orci. Morbi at nulla nec diam auctor maximus non sed urna. Ut feugiat rutrum odio, sed tincidunt odio commodo in. Proin velit libero, rhoncus posuere mattis vitae, ultrices sit amet ex.</h4>
+<h4>The "Game Room" required a website-based gaming interface w/ the abiliy to have multiple game instances operating concurrently and distibuted via networked connection. 
+  Considering the clients needs basicly lays out a general set of guidelines to develope from. Without giving the client what they want could result in not producing a product that the client requires or could envolve an abundence of client requested changes due to not incorporating their "needs" before hand.</h4>
 
 <h3>How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?</h3>
 
-<h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ut lectus eu nisl tempus aliquam. Aenean lacinia facilisis leo ut pellentesque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed sit amet turpis velit. Integer bibendum scelerisque sem quis euismod. Suspendisse ac egestas dui, non lacinia dui. Phasellus ut ex ullamcorper, semper quam eget, gravida risus. Aliquam vulputate feugiat mi sit amet bibendum. Etiam sit amet consectetur ipsum, nec dignissim lectus. Curabitur a mi ipsum.</h4>
+<h4></h4>
