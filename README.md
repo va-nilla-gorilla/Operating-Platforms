@@ -20,11 +20,11 @@
 
 <h3>If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?</h3>
 
-<h4>Personally, I would choose the Domain Model Description for revision. I would be way more specific and have more detail about the workings of the program in relation to each class./h4>
+<h4>Personally, I would choose the Domain Model Description for revision. I would be way more specific and have more detail about the workings of the program in relation to each class.</h4>
 
 <h3>How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?</h3>
 
-<h4>The "Game Room" required a website-based gaming interface w/ the ability to have multiple game instances operating concurrently and distributed via networked connection. Considering the clients’ needs basically lays out a general set of guidelines to develop from. Without giving the client what they want could result in not producing a product that the client requires or could involve an abundance of client requested changes due to not incorporating their "needs" beforehand.<h4>
+<h4>The "Game Room" required a website-based gaming interface w/ the ability to have multiple game instances operating concurrently and distributed via networked connection. Considering the clients’ needs basically lays out a general set of guidelines to develop from. Without giving the client what they want could result in not producing a product that the client requires or could involve an abundance of client requested changes due to not incorporating their "needs" beforehand.</h4>
 
 <h3>How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?</h3>
 
