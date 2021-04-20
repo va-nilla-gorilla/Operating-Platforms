@@ -24,7 +24,7 @@
 
 <h3>How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?</h3>
 
-<h4>The "Game Room" required a website-based gaming interface w/ the abiliy to have multiple game instances operating concurrently and distibuted via networked connection./nConsidering the clients needs basicly lays out a general set of guidelines to develope from. Without giving the client what they want could result in not producing a product that the client requires or could envolve an abundence of client requested changes due to not incorporating their "needs" before hand.</h4>
+<h4>The "Game Room" required a website-based gaming interface w/ the abiliy to have multiple game instances operating concurrently and distibuted via networked connection. Considering the clients needs basicly lays out a general set of guidelines to develope from. Without giving the client what they want could result in not producing a product that the client requires or could envolve an abundence of client requested changes due to not incorporating their "needs" before hand.</h4>
 
 <h3>How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?</h3>
 
