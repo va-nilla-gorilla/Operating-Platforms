@@ -5,7 +5,7 @@
 <h1>The Game Room Software Design Document</h1>
 
 <a href="https://github.com/va-nilla-gorilla/Operating-Platforms/blob/main/7-1%20Final%20Design%20Document.docx">The Game Room - .docx</a>
-
+<a href="https://github.com/va-nilla-gorilla/Operating-Platforms/blob/main/7-1%20Final%20Design%20Document.html">The Game Room - .html</a>
 <h3>Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?</h3>
 
 <h4>Gaming Company “The Gaming Room” operates an android OS application interface, called “Draw It or Lose It”. In order to effectively target a broader base of users/devices, they have decided to develop a web-based version of the application.</h4>
