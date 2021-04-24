@@ -4,7 +4,7 @@
 
 <h1>The Game Room Software Design Document</h1>
 
-<a href="https://github.com/va-nilla-gorilla/Operating-Platforms/blob/main/7-1%20Final%20Design%20Document.docx">The Game Room - .docx</a>/
+<a href="https://github.com/va-nilla-gorilla/Operating-Platforms/blob/main/7-1%20Final%20Design%20Document.docx">The Game Room - .docx</a></br>
 <a href="https://github.com/va-nilla-gorilla/Operating-Platforms/blob/main/7-1%20Final%20Design%20Document.html">The Game Room - .html</a>
 <h3>Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?</h3>
 
